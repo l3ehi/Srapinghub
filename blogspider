@@ -1,0 +1,6 @@
+pip install shub
+$ git clone https://github.com/scrapy/booksbot.git
+$ cd booksbot
+$ shub login
+API key: fa96f3851ed048dab5f5b42947399860
+$ shub deploy 403607
